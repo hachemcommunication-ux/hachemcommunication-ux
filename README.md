@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👨‍💻 Ahoue Djapo Jean Philippe
 
-<!--
-**hachemcommunication-ux/hachemcommunication-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Informaticien ivoirien | Spécialiste en Intelligence Artificielle & Développement Multiplateforme
 
-Here are some ideas to get you started:
+📍 **Localisation :** Abidjan, Côte d'Ivoire  
+🎓 **Domaine d'expertise :** Intelligence Artificielle, Mobile (Android/iOS) & Desktop (PC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 À propos
+Chercheur et développeur passionné par l'apprentissage automatique, la vision par ordinateur et le développement d'applications performantes. 
+
+### 🛠️ Compétences techniques
+- **Langages :** Python, C++, Java, Dart, JavaScript
+- **Intelligence Artificielle :** TensorFlow, PyTorch, OpenCV, NLP
+- **Développement Mobile & Desktop :** Flutter, Android SDK, Windows Applications
+- **Bases de données & Cloud :** PostgreSQL, Firebase, Docker
+
+---
+
+🌐 **Fiche officielle Wikidata :** [Q141192875](https://www.wikidata.org/wiki/Q141192875)
